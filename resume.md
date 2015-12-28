@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Asaph Yuan's Resume
+title: Resume
 ---
 
 <iframe src="https://resume.creddle.io/embed/gwur8qvhwwa"
