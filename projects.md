@@ -14,4 +14,7 @@ Plymouth Taskforce
 Yo Coin
 IAWA
 
+
+<div class="projects">
 Routine App: ![Routines App](/images/routines.png) Routine App: 
+</div>
