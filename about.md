@@ -8,6 +8,4 @@ title: About
   I'm Asaph, and I'd like to extend a warm welcome to my corner of the World Wide Web.
 </p>
 
-
-<iframe src="https://resume.creddle.io/embed/gwur8qvhwwa"
-  width="850" height="1100" seamless></iframe> 
+<a href="https://resume.creddle.io/resume/gwur8qvhwwa">My Resume</a>
