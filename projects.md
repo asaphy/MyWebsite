@@ -14,8 +14,4 @@ Plymouth Taskforce
 Yo Coin
 IAWA
 
-|               |               |       |
-| ------------- |:-------------:| -----:|
-|![Routines App](/images/routines.png)|  |  |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+Routine App: ![Routines App](/images/routines.png)
