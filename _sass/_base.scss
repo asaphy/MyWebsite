@@ -40,7 +40,10 @@ a {
   &:hover,
   &:focus {
     text-decoration: underline;
-    opacity: 0.8;
+    img {
+        opacity: 0.5;
+        filter: alpha(opacity=50); /* For IE8 and earlier */
+    }
   }
 
   strong {
