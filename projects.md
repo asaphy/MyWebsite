@@ -2,9 +2,11 @@
 layout: page
 title: Projects
 ---
-Here are some of the sideprojects that I've worked on recently!
 
-2015
+
+Here are some side projects that I've worked on:
+
+
 |               |               |       |
 |:-------------:|:-------------:|:-----:|
 |[![Routines iOS App](/images/routines.png)](http://asaphyuan.com/routines/){:target="_blank"}|[![True BU Website](/images/truebu.png)](http://truebu2015.org/){:target="_blank"}|[![Productify Google Chrome Extension](/images/productify.png)](https://chrome.google.com/webstore/detail/productify/gdglndlhpacaljfiaahpkbhblejmiopc){:target="_blank"}|
