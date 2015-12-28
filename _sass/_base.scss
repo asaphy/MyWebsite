@@ -52,6 +52,7 @@ img {
   max-width: 100%;
   margin: 0 0 1rem;
   border-radius: 5px;
+  text-align: center;
 }
 
 table {
@@ -75,8 +76,4 @@ th {
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
-}
-
-.projects{
-  text-align: center;
 }

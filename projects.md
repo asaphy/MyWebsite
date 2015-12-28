@@ -15,6 +15,5 @@ Yo Coin
 IAWA
 
 
-<div class="projects">
-Routine App: ![Routines App](/images/routines.png) Routine App: 
-</div>
+Routine App:
+![Routines App](/images/routines.png)
