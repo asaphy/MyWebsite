@@ -3,17 +3,13 @@ layout: page
 title: Projects
 ---
 
-2015
-Routines
-True BU Website
+Routine App:
+![Routines App](/images/routines.png)
 
-2014
+<!-- Routines
+True BU Website
 Productify
 Global Appathon
 Plymouth Taskforce
 Yo Coin
-IAWA
-
-
-Routine App:
-![Routines App](/images/routines.png)
+IAWA -->
