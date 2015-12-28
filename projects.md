@@ -3,13 +3,19 @@ layout: page
 title: Projects
 ---
 
-Routine App:
-![Routines App](/images/routines.png)
-
-<!-- Routines
+2015
+Routines
 True BU Website
+
+2014
 Productify
 Global Appathon
 Plymouth Taskforce
 Yo Coin
-IAWA -->
+IAWA
+
+|               |               |       |
+| ------------- |:-------------:| -----:|
+|![Routines](/images/routines.png)| ![Routines](/images/routines.png) | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
