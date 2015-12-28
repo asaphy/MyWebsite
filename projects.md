@@ -16,6 +16,6 @@ IAWA
 
 |               |               |       |
 | ------------- |:-------------:| -----:|
-|[![Routines](/images/routines.png)](http://example.net/)| ![Routines](/images/routines.png) | $1600 |
+|[![Routines](/images/routines.png)](http://example.net/){:target="_blank"}| ![Routines](/images/routines.png) | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
