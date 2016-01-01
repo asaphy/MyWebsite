@@ -33,4 +33,5 @@ github:
 pages_list:       
   About: '/about'
   Archive: '/archive'
+  Bookshelf: '/bookshelf'
   Projects: '/projects'
